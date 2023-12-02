@@ -6,7 +6,7 @@ window.onload=function()
     if(!isActive)
     document.title='🤪 Come Back Soon! 👈';
     else
-    document.title="🤟 Snack Water and Gun 🥳";
+    document.title="🤟 Snake Water and Gun 🥳";
   });
 };
 let scores=JSON.parse(localStorage.getItem('scores'))||{
