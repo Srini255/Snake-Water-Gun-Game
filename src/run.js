@@ -93,6 +93,9 @@ function playGame(b)
       output='lose 👎 😦';
     }
   }
+  if(result==='draw')
+  document.getElementById("pa").innerHTML =''+output;
+  else
   document.getElementById("pa").innerHTML ='You '+output;
   document.getElementById("move").innerHTML 
   =`You <img class="move-img" src="img/${b}-emoji.png"><img class="move-img" src="img/${a}-emoji.png"> Computer`;
