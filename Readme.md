@@ -23,3 +23,7 @@ A simple implementation of the classic Stone Paper Scissors game. This project s
 
    ```bash
    git clone https://github.com/YourUsername/stone-paper-scissors-game.git
+2. **Execution:**
+     Run this code with Visual Studio Code
+      (or)
+      just open the index.html file
