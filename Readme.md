@@ -27,4 +27,4 @@ A simple implementation of the classic Stone Paper Scissors game. This project s
      Run this code with Visual Studio Code
       (or)
       just open the index.html file
-[Link Text](https://srini255.github.io/Stone-Paper-Scissor-Game/)
+[Click to view the Page](https://srini255.github.io/Stone-Paper-Scissor-Game/)
