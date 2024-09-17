@@ -1,4 +1,4 @@
-# Stone Paper Scissors Game
+# Snack Water Gun Game
 
 ## Overview
 
