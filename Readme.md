@@ -1,4 +1,4 @@
-# Snack Water Gun Game
+# Snake Water Gun Game
 
 ## Overview
 
